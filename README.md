@@ -1,16 +1,5 @@
 # provider_practice1
 
-A new Flutter project.
+This a practice project for provider.In this project I  checked that a person/users is eligible for driving license.If yes then it will do changes in UI like that otherwise no changes will be done for no.This project is only for provider practice.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Now i get idea of provider state management.
